@@ -61,8 +61,8 @@ Web Application to Compare your details using Serverless Architecture on AWS
 ##### Sign in
 ![](images/4.PNG)
 ##### Sign Up
-![](images/5.PNG)
+![](images/5.png)
 ##### Compare Details
-![](images/6.PNG)
+![](images/6.png)
 ##### Results
 ![](images/7.PNG)
