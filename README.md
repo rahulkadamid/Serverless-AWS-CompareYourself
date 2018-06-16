@@ -66,3 +66,10 @@ Web Application to Compare your details using Serverless Architecture on AWS
 ![](images/6.png)
 ##### Results
 ![](images/7.PNG)
+
+## Steps for Project Execution :
+```
+cd ServerlessApp-CompareYourself
+npm install
+ng serve -o
+```
